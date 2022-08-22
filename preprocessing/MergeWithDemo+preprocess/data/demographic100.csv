@@ -1,0 +1,101 @@
+subjectID,AGE,Ethnicity,RACE,GENDER,HAND,MARRY,PTEDUCAT,PTWORK,PTWRECNT,PTHOME,PTPLANG
+011_S_0003,81.3,Not Hisp/Latino,White,1.0,1.0,1.0,18.0,chemical engineer,chemical engineer,3.0,1.0
+011_S_0005,73.7,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,engineer,engineer,1.0,1.0
+011_S_0010,73.9,Not Hisp/Latino,White,2.0,1.0,1.0,12.0,bookeeper,bookeeper,1.0,1.0
+011_S_0016,65.4,Not Hisp/Latino,Black,1.0,1.0,1.0,9.0,maintenance,maintenance,1.0,1.0
+011_S_0021,72.6,Not Hisp/Latino,Black,2.0,1.0,3.0,18.0,teacher,teacher,1.0,1.0
+011_S_0023,71.7,Not Hisp/Latino,Black,1.0,1.0,2.0,14.0,fireman,fireman,1.0,1.0
+018_S_0043,76.2,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,Urban Planner,Retired,1.0,1.0
+011_S_0053,80.1,Not Hisp/Latino,White,1.0,1.0,1.0,12.0,retailer,retailer,1.0,1.0
+018_S_0055,75.5,Not Hisp/Latino,White,1.0,1.0,1.0,20.0,Physician,Physician,1.0,1.0
+010_S_0067,74.5,Not Hisp/Latino,White,1.0,1.0,1.0,17.0,Marketing management,same,2.0,1.0
+007_S_0068,74.4,Not Hisp/Latino,White,2.0,1.0,1.0,12.0,Bookkeeper,Bookkeeper,1.0,1.0
+007_S_0070,74.0,Not Hisp/Latino,White,1.0,2.0,1.0,14.0,Military,Sales Manager,2.0,1.0
+023_S_0083,73.2,Not Hisp/Latino,White,1.0,2.0,1.0,17.0,director of personnel for public health dept.,director of personnel for public health department,1.0,1.0
+023_S_0084,75.3,Not Hisp/Latino,White,2.0,1.0,1.0,14.0,RN,party planner,1.0,1.0
+020_S_0097,72.8,Not Hisp/Latino,White,2.0,1.0,4.0,14.0,clerical,clerical,2.0,1.0
+022_S_0129,80.2,Not Hisp/Latino,White,2.0,1.0,1.0,16.0,home maker,home maker,1.0,1.0
+023_S_0139,65.9,Not Hisp/Latino,White,2.0,1.0,1.0,13.0,office management,office management,1.0,1.0
+021_S_0159,77.9,Not Hisp/Latino,White,2.0,1.0,1.0,17.0,Medical Technologist in Microbiology,Medical Technologist in Microbiology,5.0,1.0
+011_S_0183,72.4,Not Hisp/Latino,White,2.0,1.0,2.0,14.0,homemaker,homemaker,1.0,1.0
+020_S_0213,62.9,Not Hisp/Latino,White,1.0,1.0,1.0,18.0,accountant,sales help,1.0,1.0
+005_S_0221,67.4,Not Hisp/Latino,White,1.0,1.0,1.0,18.0,Military service,Plant manager for a corporation,1.0,1.0
+005_S_0223,78.0,Not Hisp/Latino,White,2.0,1.0,1.0,18.0,Director of Juvenile Justice Program,Director of Volunteers for Hospice,1.0,1.0
+018_S_0286,65.9,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,Manager,Mangr,1.0,1.0
+002_S_0295,84.8,Not Hisp/Latino,White,1.0,1.0,1.0,18.0,MANAGER PGE,MANAGER PGE,1.0,1.0
+007_S_0316,80.9,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,Architect,Architect,1.0,1.0
+014_S_0328,76.6,Not Hisp/Latino,White,1.0,1.0,1.0,17.0,electrical engineer,electrical engineer,1.0,1.0
+018_S_0335,83.4,Not Hisp/Latino,White,2.0,1.0,2.0,14.0,Administrator - Hospital,Administrator,1.0,1.0
+021_S_0337,75.8,Not Hisp/Latino,White,1.0,2.0,1.0,20.0,Professor,Professor Emeritus,1.0,1.0
+021_S_0343,71.8,Not Hisp/Latino,White,1.0,1.0,1.0,12.0,Computer Technical Manager,Computer Technical Manager,1.0,1.0
+016_S_0359,81.3,Not Hisp/Latino,White,2.0,1.0,2.0,14.0,Office Manager,Office Manager,2.0,1.0
+018_S_0369,76.0,Not Hisp/Latino,White,1.0,1.0,1.0,18.0,Actuary - Insurance,Actuary (Insurance),1.0,1.0
+002_S_0413,76.3,Not Hisp/Latino,White,2.0,1.0,1.0,16.0,ACCOUNTANT,ACCOUNTANT,1.0,1.0
+010_S_0419,70.2,Not Hisp/Latino,White,1.0,2.0,1.0,18.0,Pharmacist,Pharmacist,1.0,1.0
+018_S_0425,85.8,Not Hisp/Latino,White,1.0,1.0,1.0,20.0,Orthopedic Surgeon,Orthopedic surgeon,1.0,1.0
+010_S_0472,72.0,Not Hisp/Latino,White,1.0,1.0,1.0,20.0,human resources/ education,counseling,2.0,1.0
+013_S_0502,74.9,Not Hisp/Latino,White,1.0,1.0,3.0,18.0,Public relations,Public Relations,3.0,1.0
+014_S_0519,74.1,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,electrical engineer,electrical engineer,1.0,1.0
+014_S_0520,77.7,Not Hisp/Latino,White,2.0,1.0,1.0,16.0,nurse,nurse,1.0,1.0
+016_S_0538,82.7,Not Hisp/Latino,White,1.0,1.0,4.0,16.0,District Manager,Sold Real Estate,2.0,1.0
+014_S_0548,73.6,Not Hisp/Latino,White,2.0,1.0,2.0,12.0,homemaker,office clerical worker,2.0,1.0
+005_S_0553,84.6,Not Hisp/Latino,White,1.0,1.0,2.0,18.0,Oceangrapher/Scientist,Office of Naval Research,1.0,1.0
+031_S_0554,71.6,Not Hisp/Latino,Black,1.0,1.0,1.0,14.0,minister,corporate trainer,1.0,1.0
+014_S_0558,79.8,Not Hisp/Latino,White,1.0,1.0,2.0,19.0,lawyer,lawyer,1.0,1.0
+013_S_0575,86.2,Not Hisp/Latino,White,2.0,1.0,1.0,17.0,Nursery School Teacher,Nursery School Teacher,1.0,1.0
+005_S_0602,70.7,Not Hisp/Latino,White,1.0,1.0,1.0,17.0,Naval Officer - Captain,Real estate property management,1.0,1.0
+002_S_0619,77.5,Not Hisp/Latino,White,1.0,1.0,1.0,12.0,"old, rare, and scholarly bookseller",bookseller,3.0,1.0
+018_S_0633,83.3,Not Hisp/Latino,White,1.0,1.0,1.0,11.0,Carpenter,Maintenance,1.0,1.0
+021_S_0642,84.5,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,Insurance Brokerage,Insurance Brokerage,1.0,1.0
+006_S_0681,76.8,Not Hisp/Latino,White,2.0,1.0,1.0,19.0,Chemistry Teacher,Chemistry Teacher,1.0,1.0
+018_S_0682,68.0,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,Stock Broker,Stock Broker,1.0,1.0
+012_S_0689,63.6,Not Hisp/Latino,White,1.0,1.0,1.0,12.0,operator at chemical plant,operator at chemical plant,1.0,1.0
+012_S_0712,76.6,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,civil engineer,civil engineer,1.0,1.0
+012_S_0720,77.4,Not Hisp/Latino,White,2.0,1.0,3.0,14.0,assembly line work,"manager, apt. dining hall and kitchen",3.0,1.0
+006_S_0731,71.5,Not Hisp/Latino,White,1.0,1.0,1.0,18.0,Auto Engineer,Auto Engineer,1.0,1.0
+009_S_0751,70.9,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,Marketing/Business Manager,Mid-level Manager,1.0,1.0
+021_S_0753,65.5,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,Marine Aviator,Defense Contractor,1.0,1.0
+010_S_0786,74.5,Not Hisp/Latino,White,1.0,2.0,1.0,19.0,Lawyer,Lawyer,2.0,1.0
+012_S_0803,84.7,Not Hisp/Latino,White,2.0,1.0,2.0,12.0,homemaker,homemaker,1.0,1.0
+005_S_0814,71.0,Not Hisp/Latino,White,2.0,1.0,1.0,16.0,Real Estate Agent,Real Estate Agent,4.0,1.0
+002_S_0816,70.8,Not Hisp/Latino,White,1.0,1.0,1.0,20.0,Psychologist,tax preparer,1.0,1.0
+010_S_0829,64.9,Not Hisp/Latino,White,2.0,2.0,2.0,15.0,Associate Executive Director at YMCA,Associate Executive Director at YMCA,3.0,1.0
+029_S_0836,83.1,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,District manager,District manager,1.0,1.0
+009_S_0842,73.6,Not Hisp/Latino,White,1.0,1.0,1.0,18.0,Executive,Rancher,1.0,1.0
+027_S_0850,78.1,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,librarian,librarian,1.0,1.0
+009_S_0862,73.4,Not Hisp/Latino,White,2.0,1.0,2.0,12.0,Accounting,Billing,2.0,1.0
+020_S_0899,80.1,Not Hisp/Latino,White,2.0,1.0,2.0,16.0,accountant,bookkeper,3.0,1.0
+023_S_0916,79.7,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,Investment Banking/Securiites,same,2.0,1.0
+002_S_0938,82.2,Not Hisp/Latino,White,2.0,1.0,1.0,16.0,social worker,social worker aging services,1.0,1.0
+003_S_0981,84.3,Not Hisp/Latino,White,2.0,1.0,2.0,16.0,school teacher,"substitute teacher, bookeeping",1.0,1.0
+016_S_0991,86.3,Not Hisp/Latino,White,2.0,1.0,2.0,10.0,housewife,housewife,2.0,1.0
+012_S_1009,75.8,Not Hisp/Latino,White,1.0,1.0,1.0,16.0,owned plastic manufacturing company,owned construction company,1.0,1.0
+002_S_1018,70.7,Not Hisp/Latino,White,2.0,1.0,1.0,13.0,bank loan assistant,bank loan assistant,1.0,1.0
+013_S_1035,87.2,Not Hisp/Latino,White,1.0,1.0,2.0,20.0,child psychiatrist,child psychiatrist,1.0,1.0
+029_S_1056,71.1,Not Hisp/Latino,White,2.0,1.0,1.0,13.0,homemaker,homemaker,1.0,1.0
+027_S_1081,84.5,Not Hisp/Latino,White,1.0,1.0,1.0,20.0,opthamologist,opthamologist,5.0,1.0
+027_S_1082,69.5,Not Hisp/Latino,White,2.0,1.0,1.0,13.0,legal secretary,food services secretary-Alfred University,1.0,1.0
+021_S_1109,77.8,Not Hisp/Latino,White,2.0,1.0,1.0,17.0,High School Teacher,High School Teacher,2.0,1.0
+012_S_1133,79.9,Not Hisp/Latino,White,2.0,1.0,3.0,20.0,college professor,college administrator,1.0,1.0
+024_S_1171,71.5,Not Hisp/Latino,White,1.0,1.0,1.0,12.0,Safety director Ohio Edison,Safety Director Ohio Edison,1.0,1.0
+013_S_1205,83.0,Not Hisp/Latino,White,1.0,1.0,1.0,19.0,lawyer,lawyer,1.0,1.0
+007_S_1222,73.4,Not Hisp/Latino,Black,2.0,1.0,2.0,16.0,teacher,teacher,2.0,1.0
+027_S_1254,84.3,Not Hisp/Latino,White,1.0,1.0,1.0,11.0,banker's engineer,lock smith,1.0,1.0
+002_S_1261,71.1,Not Hisp/Latino,White,2.0,1.0,1.0,16.0,Chemist,"Chemist, Lab Supervisor",1.0,1.0
+023_S_1262,72.7,Not Hisp/Latino,White,2.0,1.0,3.0,12.0,Homemaker,Accounting Clerk at UK Hospital,1.0,1.0
+002_S_1280,70.7,Hisp/Latino,White,2.0,1.0,1.0,14.0,executive director,executive director of Oregon Academy,1.0,1.0
+020_S_1288,59.9,Not Hisp/Latino,White,1.0,1.0,1.0,20.0,Research Professor,Research Professor,1.0,1.0
+024_S_1307,75.3,Not Hisp/Latino,White,2.0,1.0,1.0,13.0,LPN,LPN,1.0,1.0
+007_S_1339,79.5,Not Hisp/Latino,White,2.0,1.0,1.0,13.0,LPN,LPN,1.0,1.0
+005_S_1341,71.6,Not Hisp/Latino,White,2.0,1.0,1.0,12.0,Housewife,Sales clerk in dress shop,1.0,1.0
+027_S_1385,69.5,Not Hisp/Latino,Black,2.0,1.0,1.0,12.0,secretary,home health aide,1.0,1.0
+003_S_0907,88.6,Not Hisp/Latino,White,2.0,1.0,2.0,20.0,Missionary Christian Educator,Missionary Christian Educator,5.0,1.0
+029_S_0999,70.8,Not Hisp/Latino,White,1.0,1.0,3.0,12.0,Aerospace,Aerospace,1.0,1.0
+014_S_1095,80.3,Not Hisp/Latino,White,2.0,1.0,2.0,12.0,bookeeper,homemaker,3.0,1.0
+011_S_0022,63.2,Not Hisp/Latino,Black,1.0,1.0,3.0,17.0,teacher,paper delivery,3.0,1.0
+006_S_0498,70.3,Not Hisp/Latino,White,1.0,1.0,1.0,12.0,Management,project management,2.0,1.0
+006_S_0547,75.6,Not Hisp/Latino,White,1.0,1.0,1.0,12.0,Plumber,Plumbing and Mechanical inspector,2.0,1.0
+005_S_0610,79.0,Not Hisp/Latino,White,1.0,1.0,1.0,20.0,Professor of Economics,Executive Director of Professional Association of Economics,1.0,1.0
+012_S_0637,76.1,Not Hisp/Latino,White,2.0,1.0,3.0,16.0,food book editor,Montessori teacher,1.0,1.0
+002_S_0685,89.6,Not Hisp/Latino,White,2.0,1.0,1.0,16.0,HOMEMAKER,HOMEMAKER,1.0,1.0
+007_S_1206,72.9,Not Hisp/Latino,White,1.0,2.0,1.0,14.0,Power Plant Operator,Business Owner/Manager,2.0,1.0
